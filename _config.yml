@@ -30,9 +30,11 @@ url: "https://j0ez1.github.io" # the base hostname & protocol for your site, e.g
 github_username:  j0ez1
 
 # Build settings
+markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
