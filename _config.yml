@@ -32,7 +32,7 @@ github_username:  j0ez1
 # Build settings
 markdown: kramdown
 #theme: minima # default
-remote_theme: pages-themes/primer@v0.2.0
+remote_theme: pages-themes/primer@v0.6.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
